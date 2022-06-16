@@ -108,8 +108,7 @@ body {
   height: 100%;
   box-sizing: border-box;
 }
-.card__container:hover {
-  /*filter: brightness(180%) saturate(85%);*/
+.card__container:hover {  
   box-shadow: inset 0 0 100px 100px rgba(120, 120, 255, 0.28);
 }
 .card__header {
